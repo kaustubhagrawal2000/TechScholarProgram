@@ -64,6 +64,9 @@ ith index contains i+1 value.
 0  1  2  3
 
 
+![photo1641996588](https://user-images.githubusercontent.com/65703138/149157025-ac8cfe0a-8288-4c38-bd43-29b5c2ea9644.jpeg)
+
+
 </pre>
 
 
