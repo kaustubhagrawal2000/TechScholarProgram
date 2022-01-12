@@ -25,3 +25,10 @@ Print a 2D matrix of size A*A in spiral order
  
  ![photo1641993018](https://user-images.githubusercontent.com/65703138/149146813-e922a492-c11f-4a3c-828c-0f93dd98842d.jpeg)
 
+2. Increment number represented as array 
+Given a numb represented as an array of digits , increment the numb by 1 and return the resulting sum as an array.
+- i/p
+3
+1 1 1
+-o/p
+112
