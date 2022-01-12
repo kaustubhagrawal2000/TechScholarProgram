@@ -25,7 +25,7 @@ top left------------- top right
  </pre>
  
  ![photo1641993018](https://user-images.githubusercontent.com/65703138/149146813-e922a492-c11f-4a3c-828c-0f93dd98842d.jpeg)
-
+<pre>
 2. Increment number represented as array 
 Given a numb represented as an array of digits , increment the numb by 1 and return the resulting sum as an array.
 - i/p
@@ -39,8 +39,8 @@ sol:-
 get a carry num>10
 move ahead num<10
 
-
-
+</pre>
+<pre>
 3. Given an unsorted array of int ,find the smallest missing positive integers.
 
 i/p 
@@ -63,5 +63,7 @@ ith index contains i+1 value.
 -1 2  3  4
 0  1  2  3
 
+
+</pre>
 
 
