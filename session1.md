@@ -21,6 +21,7 @@ Print a 2D matrix of size A*A in spiral order
  |                       |
  |                       |
  bottom left-----------bottom right
+ </pre>
  
  ![photo1641993018](https://user-images.githubusercontent.com/65703138/149146813-e922a492-c11f-4a3c-828c-0f93dd98842d.jpeg)
-</pre>
+
