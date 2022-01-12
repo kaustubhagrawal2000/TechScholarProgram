@@ -62,11 +62,11 @@ First missing +ve numb is always between 1 to N+1
 ith index contains i+1 value.
 -1 2  3  4
 0  1  2  3
-
+</pre>
 
 ![photo1641996588](https://user-images.githubusercontent.com/65703138/149157025-ac8cfe0a-8288-4c38-bd43-29b5c2ea9644.jpeg)
 
 
-</pre>
+
 
 
