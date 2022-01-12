@@ -10,8 +10,8 @@ Intro to Array Problems
 
 1.Square Matrix
 Print a 2D matrix of size A*A in spiral order
-i/p =1 2 3 4 5 6 7 8 9 
-o/p= 
+- i/p =1 2 3 4 5 6 7 8 9 
+- o/p= 
 1 2 3
 8 9 4
 7 6 5
