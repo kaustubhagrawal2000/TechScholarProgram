@@ -66,7 +66,26 @@ ith index contains i+1 value.
 
 ![photo1641996588](https://user-images.githubusercontent.com/65703138/149157025-ac8cfe0a-8288-4c38-bd43-29b5c2ea9644.jpeg)
 
+<pre>
+4. Find if the string permutation can form a palindrome
+
+sol:-
+//even len= all chars repeat twice
+//odd len= all char repeat else one elem which repeats odd no of times
 
 
+eg nnamm
+n(2) a(1) m(2)
+yes it is 
+
+nnammd
+n(2) m(2) a(1) d(1) 
+not a palindrome
+
+create a hasmap of the count of char
+traverse the map 
+if odd occ>1 declare it as false
+if odd occ<1 declare it as true
+</pre>
 
 
