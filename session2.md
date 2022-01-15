@@ -1,5 +1,6 @@
 <pre>
-1.Given a sorted array of integers and a target, find if there’s a pair of elements that add up to the target. Return true if such a pair can be found, and false otherwise.
+1.Given a sorted array of integers and a target, find if there’s a pair of elements that add up to the target. 
+Return true if such a pair can be found, and false otherwise.
 
 
 Brute force - Use of two loops
