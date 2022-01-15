@@ -59,6 +59,7 @@ return -1
 5. Kadanes algo 
 
 prefix sum(l to r)=prefixsum[r]-prefixsum[l-1]
+![Screenshot (916)](https://user-images.githubusercontent.com/65703138/149615170-e778349d-033c-474c-82cc-2419822c3fc3.png)
 
 
 </pre>
