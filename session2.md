@@ -54,3 +54,11 @@ ss==a[i]
 return -1
 
 </pre>
+
+<pre>
+5. Kadanes algo 
+
+prefix sum(l to r)=prefixsum[r]-prefixsum[l-1]
+
+
+</pre>
