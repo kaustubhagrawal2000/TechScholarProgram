@@ -31,11 +31,8 @@ sol:-
 brute force : 3 loops
 optimized:
 Take a pointer. Find the lower bound on left and max element in right. 
+max value on rhs- maintain an array and put on the elements larger 
+lower bound - trying to put the element in set and use the lower bound
 
 </pre>
-<pre>
-4. Given a sorted array, remove the duplicates in-place, such that each element in the array appears at most twice, and return the new length.
 
-Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
-
-</pre>
