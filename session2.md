@@ -12,3 +12,7 @@ One pointer at the first second pointer at the last.
 
 
 </pre>
+
+<pre>
+Given two sorted arrays of size M and N, merge the two arrays and return the final array, sorted.
+</pre>
