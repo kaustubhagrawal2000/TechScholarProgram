@@ -64,4 +64,15 @@ prefix sum(l to r)=prefixsum[r]-prefixsum[l-1]
 
 </pre>
 ![Screenshot (916)](https://user-images.githubusercontent.com/65703138/149615203-bc713d53-16d9-4eb8-ab9b-e18c5ed276a4.png)
+<pre>
+6. An interval is a range, with a starting value and ending value. [1, 3] indicates elements 1, 2, 3 and so on.
 
+Given a collection of intervals, merge all overlapping intervals. The result should only have mutually exclusive intervals -
+meaning that no number should be common between two intervals, in the result.
+
+Note: The merged intervals should be printed in increasing order of start value.
+
+
+sol :- 
+</pre>
+![Screenshot (918)](https://user-images.githubusercontent.com/65703138/149615945-7fd6d04d-a6ad-45b3-9c3c-ee1347cc0b46.png)
