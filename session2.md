@@ -35,4 +35,22 @@ max value on rhs- maintain an array and put on the elements larger
 lower bound - trying to put the element in set and use the lower bound
 
 </pre>
+<pre>
 
+4.Prartioning element in an array
+
+sol:- 1st and last element can't be the ans.
+take the prefix sum and suffix sum and return the index where both the values are equal.
+
+or
+
+a. sufix sum=sum of array
+b. prefix sum=0
+c. for i=0 to n
+ps=a[i]
+if ps==ss
+return a[i]
+ss==a[i]
+return -1
+
+</pre>
