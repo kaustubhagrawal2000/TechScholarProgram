@@ -122,5 +122,31 @@ int main(){
 <pre>
 6.  Find the Kth smallest element in a matrix
 
+int kthSmallestElementInMatrix(vector<vector<int>> matrix,int k)
+{
+      int n=matrix.size();
+    vector<int> temp;
+    for(auto i=0;i<n;i++)
+        for(auto j=0;j<n;j++)
+        temp.push_back(matrix[i][j]);
+    
+    sort(temp.begin(),temp.end());
+    int ans=temp[k-1];
+    return ans;
+}
 
+int main()
+{
+    int n,k;cin>>n>>k;
+
+    vector<vector<int> > matrix(n);
+    for(int i=0;i<n;i++){
+        for(int j = 0;j<n;j++){
+            int x;cin>>x;
+            matrix[i].push_back(x);
+        }
+    }
+    int ans = kthSmallestElementInMatrix(matrix,k);
+    cout<<ans<<endl;
+}
 </pre>
