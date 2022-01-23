@@ -1,6 +1,27 @@
 <pre>
 1.  Find the first one
+int zeroOnes(int n, vector<int > arr){
+    for (int i = 0; i < n; i++)
+ 
+        
+        if (arr[i] == 1)
+            return i;
+ 
+    
+    return -1;
+}
 
+
+int main(){
+    int n;
+    cin>>n;
+    vector<int > arr(n);
+    for(int i=0;i<n;i++){
+        cin>> arr[i];
+    }
+    int result = zeroOnes(n, arr);
+    cout << result << "\n";
+}
 
 </pre>
 <pre>
